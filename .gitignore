@@ -7,9 +7,6 @@ env/
 venv/
 .venv/
 
-# Ignore image or asset folders
-pics/
-
 # Ignore environment variables file (used later)
 .env
 
